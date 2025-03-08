@@ -1,6 +1,6 @@
 # ecommerce
 
-Este repositório contém os scripts dos seguintes gráficos:
+Este repositório contém os scripts e imagens dos seguintes gráficos:
 
 Gráfico de Histograma
 
